@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/feather-pen-2.png",
+      "title": "Front-End",
+      "description": "Front-end development involves creating the visible parts of a website that users interact with directly. It includes design, layout, and functionality to ensure a seamless user experience."
+    },
+    {
+      "id": "2",
+      "src": "./img/feather-pen-1.png",
+      "title": "Back-End",
+      "description": "Back-end development involves building and maintaining the server-side components of websites and applications, handling databases, and ensuring functionality behind the scenes."
+    },
+    {
+      "id": "3",
+      "src": "./img/tag-1.png",
+      "title": "Hardware Troubleshooting",
+      "description": "Hardware troubleshooting is the process of identifying and resolving issues or malfunctions in computer equipment and devices to restore their proper functionality."
+    },
+    {
+      "id": "4",
+      "src": "./img/product-chain-1.png",
+      "title": "CCTV Installer",
+      "description": "A CCTV installer sets up and configures security camera systems to monitor and record activities in various locations for surveillance purposes."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/port1.png",
+      "title": "Landing Page",
+      "description": "A landing page is a focused single web page used for a specific purpose, like getting people to sign up, buy a product, or download content. It's designed to prompt quick action from visitors.",
+      "link": "View In Github"
+    },
+    {
+      "id": "2",
+      "src": "./img/port2.png",
+      "title": "Services",
+      "description": "Software Development: Creating and maintaining applications and programs tailored to specific needs.",
+      "link": "View In Github"
+    },
+    {
+      "id": "3",
+      "src": "./img/port3.png",
+      "title": "Contact Us",
+      "description": "A Contact Us form is a way for visitors to send messages to a website. They enter their details and message, making communication simple.",
+      "link": "View In Github"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "What a fantastic website! The intuitive layout, fast loading times, and relevant information make it a go-to resource in its niche. It is responsive!",
+      "author_name": "Jaypee Cepeda",
+      "author_designation": "Starbucks"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Impressive website! The sleek design and user-friendly interface make navigation a breeze, while the rich content kept me engaged and informed.",
+      "author_name": "Caleb Juanito",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "This website truly stands out! The seamless blend of aesthetics and functionality creates an enjoyable browsing experience, making it easy to find what I needed.",
+      "author_name": "Roy Mayorga",
+      "author_designation": "McDonalds"
+    }
+  ]
+}
