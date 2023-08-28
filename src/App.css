@@ -747,3 +747,7 @@ input[type="checkbox"] {
 }
 
 /* Responsive Screens Ends*/
+
+.gitlink {
+  text-decoration: none;
+}
