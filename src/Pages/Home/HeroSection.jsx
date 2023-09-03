@@ -21,16 +21,9 @@ export default function HeroSection() {
           </p>
           <hr />
         </div>
-        <Link
-          spy={true}
-          smooth={true}
-          offset={-70}
-          duration={500}
-          to="ContactMe"
-          className="btn btn-primary"
-        >
-          Get in Touch
-        </Link>
+        <a className="btn btn-primary" href="./docs/SANTOS-RESUME.pdf" download>
+          Download my CV
+        </a>
       </div>
       <div className="hero--section--img">
         <img src="./img/HeroPic.png" />
